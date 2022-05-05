@@ -1,0 +1,19 @@
+{
+  "categories": {
+    "person": {
+      "label": "人物",
+      "color": "#66bbff"
+    }
+
+  },
+  "data": {
+    "nodes": {
+      "id": 0,
+      "label": "七草にちか",
+      "categorie": "person",
+      "info": "",
+      "image": ""
+        "link": ""
+        
+    },
+  }
